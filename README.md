@@ -15,7 +15,7 @@ I architect and ship high-performance full-stack web systems, distributed backen
 📍 **Ranchi, Jharkhand | Jaipur, Rajasthan, India**
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/nilesh-kumar-2140a22a6/">
+  <a href="https://www.linkedin.com/in/nileshkumar95/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>&nbsp;
   <a href="mailto:akashshukla9523@gmail.com">
